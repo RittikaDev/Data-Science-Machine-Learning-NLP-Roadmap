@@ -8,3 +8,8 @@
 2024-06-19 12:26:04-root-WARNING-This is a warning message
 2024-06-19 12:26:04-root-ERROR-This is an error message
 2024-06-19 12:26:04-root-CRITICAL-This is a critical message
+2026-04-08 16:10:36,717 - my_logger - DEBUG - This is a debug message
+2026-04-08 16:10:36,717 - my_logger - INFO - This is an info message
+2026-04-08 16:10:36,718 - my_logger - WARNING - This is a warning message
+2026-04-08 16:10:36,736 - my_logger - ERROR - This is an error message
+2026-04-08 16:10:36,737 - my_logger - CRITICAL - This is a critical message
