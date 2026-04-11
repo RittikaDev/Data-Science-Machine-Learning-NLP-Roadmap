@@ -16,9 +16,8 @@ import time
 # INCREASE THE MAXIMUM NUMBER OF DIGITS FOR INTEGER CONVERSION
 sys.set_int_max_str_digits(100000)
 
+
 ## FUNCTION TO COMPUTE FACTORIALS OF A GIVEN NUMBER
-
-
 def computer_factorial(number):
     print(f"Computing factorial of {number}")
     result = math.factorial(number)
