@@ -1,0 +1,17 @@
+<html>
+	<h2>Final Results</h2>
+	<!-- {%...%} CONDITIONS, FOR LOOPS JINJIA2 RULS EXAMPLE -->
+	<body>
+		<!-- results is exp = {"score": score, "res": res} COMING FROM @app.route("/successres/<int:score>") FROM jinja.py -->
+		{% for key,value in results.items() %} {# This is the comment section #}
+		<body>
+			{{ key }}
+		</body>
+		<body>
+			Final Results
+		</body>
+		h1>
+		<h2>{{ value }}</h2>
+		{% endfor %}
+	</body>
+</html>
